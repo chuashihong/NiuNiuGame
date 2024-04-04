@@ -16,8 +16,8 @@ class ResultCalculator:
         best_result = original_result
         bestThreeCard = [cards[i] for i in threeCardIndex]
         bestTwoCard = [cards[i] for i in twoCardIndex]
-        ## only consider other result when it is worse than Niu 10
-        if self.result_rank.index(original_result) <= self.result_rank.index("Niu 10"):
+        ## only consider other result when it is worse than Niu 10 and other result is worse than Niu 10
+        if self.result_rank.index(original_result) > self.result_rank.index("Niu 10"):
             return best_result, bestThreeCard, bestTwoCard
         
         bestThreeCardIndex, bestTwoCardIndex = threeCardIndex, twoCardIndex
