@@ -12,7 +12,10 @@ Welcome to the world of **Niu Niu Card Game**, an engaging and strategic card ga
 
 ## How to Play
 
-Niu Niu is a card game played with a standard deck of cards, including the Joker. The game's goal is simple: form the best possible hand by strategically swapping cards, with a special focus on the magical numbers '3' and '6'. These numbers hold the power to turn the tide of the game, offering creative and unexpected ways to achieve victory.
+Niu Niu is a card game played with a standard deck of cards of 52 cards. T
+he game's goal is simple: form the best possible hand by strategically swapping cards, with a special focus on the magical numbers '3' and '6'. 
+These numbers hold the power to turn the tide of the game, offering creative and unexpected ways to achieve victory.
+Each player will be given 5 cards randomly, the best hand wins!
 
 ### Main Elements
 
@@ -32,6 +35,6 @@ Niu Niu Card Game: Where strategy meets fortune, and every hand is a new adventu
 
 ---
 
-**Join us now and let the cards determine your fate!**
+**Join the game now and let the cards determine your fate!**
 """
 
